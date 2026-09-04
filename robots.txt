@@ -1,0 +1,14 @@
+# Robots.txt - Meerab Divine Academy
+# https://meerabdivine-academy.vercel.app
+
+User-agent: *
+Allow: /
+
+# Disallow admin/internal pages if any
+Disallow: /assets/
+
+# Sitemap location
+Sitemap: https://meerabdivine-academy.vercel.app/sitemap.xml
+
+# Crawl-delay for polite bots
+Crawl-delay: 1
