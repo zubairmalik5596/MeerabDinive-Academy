@@ -3,7 +3,7 @@
 
   <!-- Homepage -->
   <url>
-    <loc>https://meerabdivine-academy.vercel.app/</loc>
+    <loc>https://meerab-divine-academy.vercel.app/</loc>
     <lastmod>2026-08-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -11,7 +11,7 @@
 
   <!-- About Us -->
   <url>
-    <loc>https://meerabdivine-academy.vercel.app/about.html</loc>
+    <loc>https://meerab-divine-academy.vercel.app/about.html</loc>
     <lastmod>2026-08-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -19,7 +19,7 @@
 
   <!-- Courses -->
   <url>
-    <loc>https://meerabdivine-academy.vercel.app/courses.html</loc>
+    <loc>https://meerab-divine-academy.vercel.app/courses.html</loc>
     <lastmod>2026-08-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
@@ -27,7 +27,7 @@
 
   <!-- Course Details - Tajweed -->
   <url>
-    <loc>https://meerabdivine-academy.vercel.app/course-details.html</loc>
+    <loc>https://meerab-divine-academy.vercel.app/course-details.html</loc>
     <lastmod>2026-08-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -35,7 +35,7 @@
 
   <!-- Fee Structure -->
   <url>
-    <loc>https://meerabdivine-academy.vercel.app/fees.html</loc>
+    <loc>https://meerab-divine-academy.vercel.app/fees.html</loc>
     <lastmod>2026-08-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -43,7 +43,7 @@
 
   <!-- Contact & Registration -->
   <url>
-    <loc>https://meerabdivine-academy.vercel.app/contact.html</loc>
+    <loc>https://meerab-divine-academy.vercel.app/contact.html</loc>
     <lastmod>2026-08-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
